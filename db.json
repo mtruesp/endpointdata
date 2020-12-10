@@ -11,5 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-  "words": ["Carro", "Marte", "Arte", "Rio", "Oceano", "ROMA", "Sierra", "Samba"]
+  "words": ["Carro", "Marte", "Arte", "Rio", "Oceano", "ROMA", "Sierra", "Samba"],
+  "numbers": {
+    "n1": [8, 0, 1, 2, 4],
+    "n2": [5, 1, 2, 4, 5]
+  }
 }
