@@ -8,9 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "words": ["Carro", "Marte", "Arte", "Rio", "Oceano", "ROMA", "Sierra", "Samba"],
   "numbers": {
     "n1": [8, 0, 1, 2, 4],
